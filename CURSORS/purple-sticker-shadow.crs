@@ -1,0 +1,51 @@
+﻿[Arrow]
+Path=Normal Sticker.cur
+
+[Help]
+Path=Help Sticker.cur
+
+[AppStarting]
+Path=Work in Back Sticker.cur
+
+[Wait]
+Path=Busy Sticker.ani
+
+[Crosshair]
+Path=Precision Sticker.cur
+
+[NWPen]
+Path=Writing Sticker.cur
+
+[No]
+Path=Unavailable Sticker.cur
+
+[SizeNS]
+Path=Vertical Sticker.cur
+
+[SizeWE]
+Path=Horizontal Sticker.cur
+
+[SizeNWSE]
+Path=Diagonal 1 Sticker.cur
+
+[SizeNESW]
+Path=Diagonal 2 Sticker.cur
+
+[SizeAll]
+Path=Move Sticker.cur
+
+[UpArrow]
+Path=Alternate Sticker.cur
+
+[Hand]
+Path=Link Sticker.cur
+
+[Pin]
+Path=Location Sticker.cur
+
+[Person]
+Path=Person Sticker.cur
+
+[IBeam]
+Path=Text Sticker.cur
+
